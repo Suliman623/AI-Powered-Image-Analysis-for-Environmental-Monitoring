@@ -66,4 +66,4 @@ The EuroSAT dataset contains 27,000 labeled satellite images divided into 10 cla
 
 For questions or feedback, feel free to reach out:
 
-- **Muhammad Suliman**: (mailto:Sulimangorsi623@gmail.com)
+- **Muhammad Suliman**: (Sulimangorsi623@gmail.com)
