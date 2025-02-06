@@ -35,30 +35,6 @@ The EuroSAT dataset contains 27,000 labeled satellite images divided into 10 cla
    git clone https://github.com/Suliman623/ai-environmental-monitoring.git
    cd ai-environmental-monitoring
    ```
-
-2. **Set up a virtual environment**:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
-
-3. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Download the EuroSAT dataset**:
-   - Download the dataset from [EuroSAT GitHub](https://github.com/phelber/EuroSAT).
-   - Place the `EuroSAT.zip` file in the project directory.
-
-5. **Unzip the dataset**:
-   ```python
-   import zipfile
-   zip_path = '/path/to/EuroSAT.zip'
-   with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-       zip_ref.extractall('/path/to/EuroSAT')
-   ```
-
 ---
 
 ## Usage
